@@ -22,3 +22,9 @@
   line-height: 1.5;
   margin: 250px;
 }
+
+@media (max-width: 768px) {
+  .Label {
+    font-size: 25px;
+  }
+}
