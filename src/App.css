@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  background-image: url('./cyprus.jpg');
+  background-size: cover;
+  display: flex;
+  height: 100vh;
+}
+
+.Wrapper {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.Label {
+  text-shadow: 2px 2px 3px yellow;
+  font-size: 50px;
+  line-height: 1.5;
+  margin: 250px;
+}
